@@ -11,17 +11,12 @@ Hey there I'm Cae, n student and researcher. My primary focus lies in the realm 
 
 ## Technologies I Love
 
-- Python <img align="center" alt="cae-py" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-- Java <img align="center" alt="cae-java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-- R <img align="center" alt="cae-r" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-- C++ <img align="center" alt="cae-cpp" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-- Go <img align="center" alt="cae-go" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-- C <img align="center" alt="cae-c" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-- Bash <img align="center" alt="cae-bash" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
+<div style="display: inline_block"><br>
+  <img align="center" alt="cae-py" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="cae-java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="cae-r" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+ <img align="center" alt="cae-cpp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+ <img align="center" alt="cae-cpp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="cae-c" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" alt="cae-bash" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
 
-
-## GitHub Contribution Snake 🐍
-
-<p align="center">
-  <img src="https://github.com/caemuller/caemuller/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
