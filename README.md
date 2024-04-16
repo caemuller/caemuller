@@ -1,4 +1,4 @@
-# Hello! I'M CAE 🌟
+# Hello! I'm Cae 🌟
 
 <div>
   <a href="https://github.com/caemuller">
