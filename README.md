@@ -7,7 +7,7 @@
 
 ## About Me
 
-Hey there I'm Cae, n student and researcher. My primary focus lies in the realm of Artificial Intelligence both classic and Machine Learning, where my passion drives my exploration of cutting-edge technologies. Additionally, I possess qualifications in High-Performance Computing (HPC), Computer Graphics (CG), Algorithms and Cloud Computing, broadening my expertise and enabling me to tackle diverse challenges in the ever-evolving tech landscape.
+Hey there I'm Cae, n student and researcher. My primary focus lies in the realm of Artificial Intelligence both classic and Machine Learning, where my passion drives my exploration of cutting-edge technologies. Additionally, I possess qualifications in High-Performance Computing (HPC), Computer Graphics (CG), Algorithms and Stream Processing, broadening my expertise and enabling me to tackle diverse challenges in the ever-evolving tech landscape.
 
 
 
